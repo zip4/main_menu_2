@@ -40,6 +40,8 @@ li:hover > ul{
 li:hover > ul > li{
     float: none;
     background-color: darkcyan;
+    border-bottom: 2px solid whitesmoke;
+    border-left: 1px solid whitesmoke;
 }
 .sing_in{
     float: right;
