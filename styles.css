@@ -66,13 +66,32 @@ li:hover > ul > li{
     font-family: "Comic Sans MS";
     font-size: medium;
     background-color: cadetblue;
-    border: 3px solid darkcyan;
-    border-left: 1px solid darkcyan;
-    border-top: 1px solid darkcyan;
+    border: 3px solid darkgreen;
+    border-left: 1px solid darkgreen;
+    border-top: 1px solid darkgreen;
+}
+.send_btn{
+    text-align: center;
+    margin: 15px;
+    margin-left: 100px;
+    border-radius: 30px;
+    color: azure;
+    font-family: "Comic Sans MS";
+    font-size: medium;
+    background-color: cadetblue;
+    border: 3px solid darkgreen;
+    border-left: 1px solid darkgreen;
+    border-top: 1px solid darkgreen;
 }
 .support_btn:hover{
-    background-color: darkgreen;
-    padding: 5px;
+    background-color: darkcyan;
+    color: red;
+    padding: 0 5px;
+}
+.send_btn:hover{
+    background-color: darkcyan;
+    color: red;
+    padding: 0 5px;
 }
 .ff{
     margin: auto;
