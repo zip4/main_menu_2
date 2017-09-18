@@ -58,6 +58,16 @@ li:hover > ul > li{
     text-align: center;
     font-family: "Comic Sans MS";
 }
+.secondary_header{
+    border-radius: 30px;
+    background-color: darkcyan;
+    margin: 0 250px;
+    padding: 5px;
+    text-align: center;
+    font-family: "Comic Sans MS";
+    color: whitesmoke;
+    border: 1px solid whitesmoke;
+}
 /*КНОПКА ПОДДЕРЖКИ*/
 .support_btn{
     float: right;
