@@ -129,6 +129,8 @@ a:hover{
     margin: 1px;
     background-color: cadetblue;
     color: whitesmoke;
+    font-family: "Times New Roman";
+    font-size: medium;
 }
 #user_problem{
     text-align: right;
@@ -139,6 +141,8 @@ a:hover{
     background-color: cadetblue;
     color: whitesmoke;
     height: 250px;
+    font-family: "Times New Roman";
+    font-size: medium;
 }
 .bottom_news_block{
     width: 275px;
@@ -147,4 +151,7 @@ a:hover{
     padding: 10px;
     background-color: darkcyan;
     margin: 25px;
+}
+.bottom_news_block:hover{
+    background-color: cadetblue;
 }
